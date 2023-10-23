@@ -5,5 +5,6 @@ for monospaced Korean font
 http://www.zone38.net/font/
    
 ttf version is cursorily made by mkbitmap, potrace, fontforge   
-
-todo: bolder version, monocraft based version
+   
+original goal: make at least usable fixed-width font as fast and simply as possible, rather than improving quality   
+todo: bolder version, monocraft based version, version with my own design for Latin Alphabet, improve quality
