@@ -1,4 +1,11 @@
 STARTFONT 2.1 
+COMMENT Press Kor Eng - Korean extension of Press Start 2P.
+COMMENT Original font: Press Start 2P by CodeMan38.
+COMMENT Original copyright: Copyright 2012 The Press Start 2P Project Authors (cody@zone38.net).
+COMMENT Original Reserved Font Name: Press Start 2P.
+COMMENT Korean glyph additions and font extension: K9Wan.
+COMMENT Licensed under the SIL Open Font License, Version 1.1.
+COMMENT See OFL.txt distributed with this font package for the full license.
 FONT -pressstart2p-presskoreng-medium-r-normal--24-240-75-75-m-75-iso10646-1
 SIZE 16 75 75
 FONTBOUNDINGBOX 24 24 0 -2
