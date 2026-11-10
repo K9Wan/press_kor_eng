@@ -1,0 +1,45 @@
+FONTLOG for Press Kor Eng
+
+This file documents the Press Kor Eng font software,
+including its source glyph data, modifications, and contributors.
+
+BASIC FONT INFORMATION
+
+Press Kor Eng is a monospaced Korean extension of Press Start 2P
+by CodeMan38.
+
+The project retains the original Press Start 2P glyphs and adds
+the glyph coverage required for the Korean extension.
+
+The repository includes bitmap glyph source data, BDF bitmap fonts,
+and a TTF font generated from the bitmap glyph data.
+
+CHANGELOG
+
+Initial version
+
+- Extended Press Start 2P for monospaced Korean font usage.
+- Retained the original Press Start 2P glyphs.
+- Added and arranged Korean glyphs for Press Kor Eng.
+- Included BMP files containing the original glyphs and the complete
+  glyph set used by Press Kor Eng.
+- Included BDF bitmap font files.
+- Generated presske.ttf by converting bitmap glyph data into vector
+  outlines using mkbitmap, potrace, and FontForge.
+
+ACKNOWLEDGEMENTS
+
+Original font:
+Press Start 2P
+
+Original font author:
+CodeMan38
+
+Korean glyph additions and font extension:
+K9Wan
+
+LICENSE
+
+SIL Open Font License, Version 1.1.
+
+See OFL.txt for the full license text.
